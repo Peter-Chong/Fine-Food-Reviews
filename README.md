@@ -1,4 +1,4 @@
-# Fine-Food-Reviews
+# Fine Food Reviews
 
 ## Code and Resources Used
 **Programming Language:** Python  
